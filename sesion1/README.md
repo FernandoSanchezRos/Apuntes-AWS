@@ -10,7 +10,7 @@
 
 ## Notebooks
 
-- [Creacion-Sesion-AWS.ipynb](notebooks/Creacion-Sesion-AWS.ipynb): Notebook de Jupyter con ejemplos de creación y gestión de sesiones en AWS usando boto3.
+- [Creacion-Sesion-AWS.ipynb](notebooks/Creacion_Sesion_AWS.ipynb): Notebook de Jupyter con ejemplos de creación y gestión de sesiones en AWS usando boto3.
 
 ## Configuración de Credenciales de AWS
 
