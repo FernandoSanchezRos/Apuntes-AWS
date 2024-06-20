@@ -1,16 +1,17 @@
-
-# Sesión 1: Introducción a AWS y Herramientas Básicas
+# Sesión 2: Manejo de IAM y EC2
 
 ## Documentación
 
-- [Anexo-AWS_Cloud9.pdf](docs/Anexo-AWS_Cloud9.pdf): Documento sobre AWS Cloud9.
-- [Anexo-AWS_CloudShell.pdf](docs/Anexo-AWS_CloudShell.pdf): Documento sobre AWS CloudShell.
-- [Clase1-Introduccion.pdf](docs/Clase1-Introduccion.pdf): Introducción a los conceptos básicos de AWS.
-- [Practica-Creacion-Sesion-AWS.pdf](docs/Practica-Creacion_Sesion_AWS.pdf): Guía sobre cómo crear y gestionar sesiones en AWS usando boto3.
+- [Anexo-Grupos_vs_Roles.pdf](docs/Anexo-Grupos_vs_Roles.pdf): Documento que compara las diferencias entre grupos y roles de IAM.
+- [Clase2.1-IAM.pdf](docs/Clase2.1-IAM.pdf.pdf): Definición, características y usos de AWS IAM.
+- [Clase2.2-EC2.pdf](docs/Clase2.2-EC2.pdf): Definición, características y usos de AWS EC2.
+- [Practica1-Gestion_Usuarios_IAM.pdf](docs/Practica1-Gestion_Usuarios_IAM.pdf): Guía sobre cómo crear y gestionar usuarios IAM usando boto3.
+- [Practica2-Instancias_EC2.pdf](docs/Practica2-Instancias_EC2.pdf): Guía sobre cómo crear y gestionar instancias EC2 usando boto3.
 
 ## Notebooks
 
-- [Creacion-Sesion-AWS.ipynb](notebooks/Creacion_Sesion_AWS.ipynb): Notebook de Jupyter con ejemplos de creación y gestión de sesiones en AWS usando boto3.
+- [Gestion_Usuarios_IAM.ipynb](notebooks/Gestion_Usuarios_IAM.ipynb): Notebook de Jupyter con ejemplos de creación y gestión de usuarios IAM usando boto3.
+- [Instancias_EC2.ipynb](notebooks/Instancias_EC2.ipynb): Notebook de Jupyter con ejemplos de creación y gestión de instancias EC2 usando boto3.
 
 ## Configuración de Credenciales de AWS
 

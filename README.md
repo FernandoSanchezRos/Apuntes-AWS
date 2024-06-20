@@ -6,13 +6,18 @@ Este repositorio contiene documentación y ejemplos de código para trabajar con
 ## Estructura del Proyecto
 
 - **/session1**: Contiene la documentación y ejemplos de la sesión 1.
+- **/session2**: Contiene la documentación y ejemplos de la sesión 2.
 
 
 ## Sesiones
 
 ### Sesión 1
 
-- [Introducción a AWS y Herramientas Básicas](session1/README.md)
+- [Introducción a AWS y Herramientas Básicas](sesion1/README.md)
+
+### Sesión 2
+
+- [Manejo de IAM y EC2](sesion2/README.md)
 
 ## Uso
 
