@@ -20,6 +20,26 @@ Para ejecutar el código en los notebooks, necesitarás tener configuradas tus c
 
    Si no tienes AWS CLI instalado, puedes seguir las instrucciones [aquí](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html).
 
+2. **Configurar tus credenciales**:
+
+   Ejecuta el siguiente comando y sigue las instrucciones para introducir tu `AWS Access Key ID` y `AWS Secret Access Key`:
+
+   ```bash
+   aws configure
+   ```
+
+   Esto creará un archivo de configuración en `~/.aws/credentials` con tus credenciales de AWS.
+
+3. **Verificar configuración**:
+
+   Puedes verificar que tus credenciales están configuradas correctamente ejecutando:
+
+   ```bash
+   aws sts get-caller-identity
+   ```
+
+   Deberías ver una respuesta que incluya tu `Account` y `Arn`.
+
 ## Uso
 
 1. Clonar el repositorio:
