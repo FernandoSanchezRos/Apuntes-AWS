@@ -6,7 +6,7 @@
 - [Anexo-AWS_Cloud9.pdf](docs/Anexo-AWS_Cloud9.pdf): Documento sobre AWS Cloud9.
 - [Anexo-AWS_CloudShell.pdf](docs/Anexo-AWS_CloudShell.pdf): Documento sobre AWS CloudShell.
 - [Clase1-Introduccion.pdf](docs/Clase1-Introduccion.pdf): Introducción a los conceptos básicos de AWS.
-- [Creacion-Sesion-AWS.pdf](docs/Creacion-Sesion-AWS.pdf): Guía sobre cómo crear y gestionar sesiones en AWS usando boto3.
+- [Creacion-Sesion-AWS.pdf](docs/Practica-Creacion_Sesion_AWS.pdf): Guía sobre cómo crear y gestionar sesiones en AWS usando boto3.
 
 ## Notebooks
 
