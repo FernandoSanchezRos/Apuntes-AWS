@@ -1,5 +1,5 @@
 
-# AWS Project
+# Aprendiendo AWS
 
 Este repositorio contiene documentación y ejemplos de código para trabajar con AWS, organizados en varias sesiones. Cada sesión abarca diferentes conceptos y herramientas de AWS, proporcionando una guía completa y estructurada para aprender a usar los servicios de AWS.
 
@@ -23,7 +23,7 @@ Este repositorio contiene documentación y ejemplos de código para trabajar con
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/AWS-Project.git
+   git clone https://github.com/tu_usuario/Aprendiendo-AWS.git
    ```
 
 2. Navegar a la sesión deseada y seguir las instrucciones en el archivo `README.md` de esa sesión.
