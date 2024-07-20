@@ -1,5 +1,4 @@
-
-# Aprendiendo AWS
+# Apuntes AWS
 
 Este repositorio contiene documentación y ejemplos de código para trabajar con AWS, organizados en varias sesiones. Cada sesión abarca diferentes conceptos y herramientas de AWS, proporcionando una guía completa y estructurada para aprender a usar los servicios de AWS.
 
