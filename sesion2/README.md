@@ -45,8 +45,8 @@ Para ejecutar el código en los notebooks, necesitarás tener configuradas tus c
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/AWS-Project.git
-   cd AWS-Project/session1
+   git clone https://github.com/FernandoSanchezRos/Apuntes-AWS.git
+   cd Apuntes-AWS/session1
    ```
 
 2. Revisar la documentación en la carpeta `/docs`.
