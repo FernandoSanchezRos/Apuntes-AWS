@@ -23,7 +23,7 @@ Este repositorio contiene documentación y ejemplos de código para trabajar con
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/Aprendiendo-AWS.git
+   git clone https://github.com/tu_usuario/Apuntes-AWS.git
    ```
 
 2. Navegar a la sesión deseada y seguir las instrucciones en el archivo `README.md` de esa sesión.
